@@ -18,8 +18,8 @@ android {
 
     defaultConfig {
         applicationId "com.qoobico.remindme"
-        minSdkVersion 9
-        targetSdkVersion 19
+        minSdkVersion 15
+        targetSdkVersion 21
         versionCode 1
         versionName "1.0"
     }
